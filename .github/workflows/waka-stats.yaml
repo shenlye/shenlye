@@ -18,9 +18,12 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           LOCALE: "zh"
-          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "shenlye"
+          COMMIT_EMAIL: "582783985@qq.com"
+          SHOW_UPDATED_DATE: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_LANGUAGE_PER_REPO: "False"
+          
           
