@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,8 +18,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           LOCALE: "zh"
-          COMMIT_USERNAME: "shenlye"
-          COMMIT_EMAIL: "582783985@qq.com"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
@@ -27,4 +25,3 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          
