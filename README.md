@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="./assets/header.svg" />
-</p>
+<img src="./assets/header.svg" />
+<img src="https://wakatime.com/share/@shenlyy/0d1e8abb-ce3a-49e5-9f20-7ad39caba41f.svg" />
+<img src="https://github-readme-stats.ykrazy.top/api/wakatime?username=shenlyy&langs_count=11&theme=transparent" />
+<img src="https://github-readme-stats.ykrazy.top/api?username=shenlye&show_icons=true&include_all_commits=true&theme=transparent" />
 
-![WakaTime Coding Activity](https://wakatime.com/share/@shenlyy/0d1e8abb-ce3a-49e5-9f20-7ad39caba41f.svg)
-![](https://github-readme-stats.ykrazy.top/api?username=shenlye&show_icons=true&include_all_commits=true&hide=contribs&theme=github_dark_dimmed&rank_icon=github)
 <!--START_SECTION:waka-->
 **我是夜猫子 🦉** 
 
@@ -46,6 +45,3 @@ PyCharm                  17 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/2bfdbfb0-5de3-4182-b0bb-f199ef612eb4.svg?style=flat-square)](https://wakatime.com/@2bfdbfb0-5de3-4182-b0bb-f199ef612eb4)
-
-![](https://github-readme-stats.ykrazy.top/api/wakatime?username=shenlyy&theme=github_dark_dimmed)
